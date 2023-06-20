@@ -1,2 +1,3 @@
 # alembic-postgresql-playground
-Just testing some stuff with Alembic and PostgreSQL
+
+Just testing some stuff with Alembic and PostgreSQL.
